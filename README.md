@@ -16,5 +16,4 @@
 
 <img width="600" src="./img/desktop-design.jpg">
 
-### Acesso
 - Você pode conferir o projeto através do link: https://advice-generator-eta-kohl.vercel.app/
